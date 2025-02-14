@@ -101,6 +101,6 @@
 ---
 
 ## **Demo Video**  
-📺 [Watch the tutorial](https://youtu.beY-NbjTJ3ZA)  
+https://youtu.beY-NbjTJ3ZA 
 
 ---
